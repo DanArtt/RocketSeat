@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://danartt.github.io/Rocketseat/)
+[🔗 Clique aqui para acessar](https://danartt.github.io/RocketSeat/)
 
 ## 🛠 Tecnologias
 
